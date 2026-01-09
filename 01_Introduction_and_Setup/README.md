@@ -8,8 +8,8 @@ Set up the learning environment the same way you’d set up a real cloud project
 
 ## What This Enables Me To Do
 - Start an AWS-based ML project with guardrails (budgeting and cost alerts)
-- - Avoid common setup mistakes that cause runaway spend
-  - Organize course materials like an engineer: repeatable and referenceable
+- Avoid common setup mistakes that cause runaway spend
+- Organize course materials like an engineer: repeatable and referenceable
 
 ## AWS Services / Concepts Covered
 - AWS account basics.
