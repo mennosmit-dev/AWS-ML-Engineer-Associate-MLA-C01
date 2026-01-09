@@ -8,7 +8,8 @@ Build the ability to transform data at scale, ensure integrity, and engineer fea
 
 ## What This Enables Me To Do
 - Perform feature engineering with awareness of dimensionality and leakage
-- Use Spark/EMR concepts for scalable transformations\n- Use Glue + Athena for cataloging, transformation, and query-driven workflows
+- Use Spark/EMR concepts for scalable transformations
+- Use Glue + Athena for cataloging, transformation, and query-driven workflows
 - Apply labeling and feature management patterns (Ground Truth, Feature Store)
 - Add data quality thinking to transformation steps
 
