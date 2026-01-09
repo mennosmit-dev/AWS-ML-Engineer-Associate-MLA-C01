@@ -7,7 +7,7 @@ This repository documents what I’m learning while preparing for the **AWS Cert
 
 ---
 
-## 🎯 What this repo demonstrates (recruiter-friendly)
+## 🎯 What this repo demonstrates 
 - **Applied AWS ML engineering skills**: data ingestion, processing, training, deployment, monitoring, and governance on AWS
 - **Service fluency**: Amazon **SageMaker**, **Bedrock**, and key supporting AWS services (S3, IAM, Kinesis, Glue, CloudWatch, etc.)
 - **Production mindset**: security, cost optimization, observability, scalability, and operational best practices
