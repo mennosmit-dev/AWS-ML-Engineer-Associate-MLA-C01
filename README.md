@@ -19,8 +19,6 @@ The MLA-C01 is one of the more demanding cloud certifications because it tests b
 - **Machine learning competence**, and
 - **How to ship and operate ML systems on AWS**
 
-I’m using this repo as a structured knowledge base that I can reference in real projects and interviews.
-
 ---
 
 ## 📊 Progress Tracker (Sections)
