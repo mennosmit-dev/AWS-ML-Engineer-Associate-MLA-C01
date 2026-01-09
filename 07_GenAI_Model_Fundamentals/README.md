@@ -7,18 +7,13 @@
 Build a strong conceptual base for transformers and LLMs so design decisions are grounded, not buzzword-driven.
 
 ## What This Enables Me To Do
-- Understand transformer mechanics (attention, tokens, embeddings)\n- Know what fine-tuning vs transfer learning means for LLMs\n- Practice notebooks/labs that connect theory to implementation\n- Understand how AWS positions foundation models and JumpStart
+- Understand transformer mechanics (attention, tokens, embeddings)
+- Know what fine-tuning vs transfer learning means for LLMs
+- Practice notebooks/labs that connect theory to implementation
+- Understand how AWS positions foundation models and JumpStart
 
 ## AWS Services / Concepts Covered
-- Transformers, attention, tokens/embeddings/temperature\n- Fine-tuning vs transfer learning\n- SageMaker notebooks labs\n- JumpStart + Hugging Face workflows
+- Transformers, attention, tokens/embeddings/temperature
+- Fine-tuning vs transfer learning\n- SageMaker notebooks labs
+- JumpStart + Hugging Face workflows
 
-## Interview-Ready Takeaways
-- I can explain LLM fundamentals clearly to technical and non-technical stakeholders\n- I understand practical controls that affect outputs (temperature, tokens, etc.)
-
-## Lecture Map (for navigation)
-- Transformer architecture + self-attention\n- GPT mechanics + key terms\n- Labs: tokenization, attention, GPT in SageMaker\n- JumpStart + Hugging Face lab\n- Quiz
-
-## Evidence I’ll add (optional)
-- notes/
-- lab-notes/
-- diagrams/
