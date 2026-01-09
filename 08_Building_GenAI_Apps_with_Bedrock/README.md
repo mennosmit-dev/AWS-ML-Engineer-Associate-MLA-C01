@@ -16,7 +16,8 @@ Move from “LLM knowledge” to “LLM systems”: build GenAI apps with RAG, g
 ## AWS Services / Concepts Covered
 - Amazon Bedrock (playground, evaluation, studio)
 - Knowledge Bases (embeddings/vector stores)
-- RAG chunking strategies\n- Guardrails
+- RAG chunking strategies
+- Guardrails
 - Bedrock Agents + action groups
 - OpenSearch cleanup warnings (operational hygiene)
 
