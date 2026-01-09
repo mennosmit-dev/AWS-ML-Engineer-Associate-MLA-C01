@@ -6,7 +6,7 @@
 - ✅ Completed
 
 ## Section checklist
-- [ ] 01 Introduction and Setup
+- [✅] 01 Introduction and Setup
 - [ ] 02 Data Ingestion and Storage
 - [ ] 03 Data Transformation, Integrity, and Feature Engineering
 - [ ] 04 AWS Managed AI Services
@@ -18,8 +18,6 @@
 - [ ] 10 Security, Identity, and Compliance
 - [ ] 11 Management and Governance
 - [ ] 12 ML Best Practices + Well-Architected ML Lens
-- [ ] 13 Practice Exam
-- [ ] 14 Exam Strategy and Wrap Up
 
 ## Notes log (add as you go)
 - Date:
