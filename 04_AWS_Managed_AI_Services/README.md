@@ -15,6 +15,7 @@ Learn to deliver AI capabilities quickly using managed services when custom mode
 - Comprehend (incl. custom)
 - Translate, Transcribe, Polly
 - Rekognition, Lex, Personalize, Textract, Kendra
-- Augmented AI (A2I)\n- Lookout, Fraud Detector
+- Augmented AI (A2I)
+- Lookout, Fraud Detector
 - Amazon Q (Business, Apps, Developer) + hands-on
 
