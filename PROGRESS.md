@@ -6,7 +6,7 @@
 - ✅ Completed
 
 ## Section checklist
-- [✅] 01 Introduction and Setup
+- [.] 01 Introduction and Setup
 - [ ] 02 Data Ingestion and Storage
 - [ ] 03 Data Transformation, Integrity, and Feature Engineering
 - [ ] 04 AWS Managed AI Services
