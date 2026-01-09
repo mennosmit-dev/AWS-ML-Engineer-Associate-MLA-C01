@@ -1,12 +1,7 @@
 # Progress — AWS MLA-C01 Learning Repo
 
-## Legend
-- ⬜ Not Started
-- ⏳ In Progress
-- ✅ Completed
-
 ## Section checklist
-- [.] 01 Introduction and Setup
+- [x] 01 Introduction and Setup
 - [ ] 02 Data Ingestion and Storage
 - [ ] 03 Data Transformation, Integrity, and Feature Engineering
 - [ ] 04 AWS Managed AI Services
@@ -19,8 +14,3 @@
 - [ ] 11 Management and Governance
 - [ ] 12 ML Best Practices + Well-Architected ML Lens
 
-## Notes log (add as you go)
-- Date:
-  - What I learned:
-  - What I practiced:
-  - What I’d do in production:
