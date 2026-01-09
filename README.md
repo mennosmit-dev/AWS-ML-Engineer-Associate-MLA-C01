@@ -58,7 +58,6 @@ Legend: ⬜ Not Started · ⏳ In Progress · ✅ Completed
 Each section folder includes:
 - **What this enables me to do**
 - **Key AWS services covered**
-- **Interview-ready takeaways**
 - Space for labs / notes if I choose to add them
 
 ---
