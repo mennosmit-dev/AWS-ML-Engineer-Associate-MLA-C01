@@ -26,8 +26,8 @@ The MLA-C01 is one of the more demanding cloud certifications because it tests b
 | #  | Section (folder) | Status |
 |---:|-------------------|--------|
 | 01 | [Introduction and Setup](01_Introduction_and_Setup/) | ✅ Completed |
-| 02 | [Data Ingestion and Storage](02_Data_Ingestion_and_Storage/) | ⏳ In Progress |
-| 03 | [Data Transformation, Integrity, and Feature Engineering](03_Data_Transformation_Integrity_Feature_Engineering/) | ⬜ Not Started |
+| 02 | [Data Ingestion and Storage](02_Data_Ingestion_and_Storage/) | ✅ Completed |
+| 03 | [Data Transformation, Integrity, and Feature Engineering](03_Data_Transformation_Integrity_Feature_Engineering/) | ⏳ In Progress |
 | 04 | [AWS Managed AI Services](04_AWS_Managed_AI_Services/) | ⬜ Not Started |
 | 05 | [SageMaker Built-In Algorithms](05_SageMaker_Built_In_Algorithms/) | ⬜ Not Started |
 | 06 | [Model Training, Tuning, and Evaluation](06_Model_Training_Tuning_Evaluation/) | ⬜ Not Started |
