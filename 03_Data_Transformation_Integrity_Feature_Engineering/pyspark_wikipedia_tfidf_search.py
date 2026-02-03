@@ -61,27 +61,27 @@ rescaledData = idfModel.transform(featurizedData)
 rescaledData.show(5, truncate=True)
 
 
-# Get the hashed feature index for the search term "gettysburg"
+# Get the hashed feature index for the search term "Swimming"
 schema = StructType([StructField("words", ArrayType(StringType()), True)])
-term_df = spark.createDataFrame([[["gettysburg"]]], schema=schema)
+term_df = spark.createDataFrame([[["Swimming"]]], schema=schema)
 
 term_hashed = hashingTF.transform(term_df)
 feature_row = term_hashed.select("rawFeatures").collect()[0]
-gettysburgID = int(feature_row.rawFeatures.indices[0])
+wordID = int(feature_row.rawFeatures.indices[0])
 
-print(f'Hashed feature index for "gettysburg": {gettysburgID}')
+print(f'Hashed feature index for word: {wordID}')
 
 
 # Extract the TF/IDF value at that index for each document as "score"
-termExtractor = udf(lambda v: float(v[gettysburgID]), FloatType())
+termExtractor = udf(lambda v: float(v[wordID]), FloatType())
 
-gettysburgDF = rescaledData.withColumn("score", termExtractor(col("features")))
-gettysburgDF.select("ID", "Title", "score").show(20, truncate=True)
+wordDF = rescaledData.withColumn("score", termExtractor(col("features")))
+wordDF.select("ID", "Title", "score").show(20, truncate=True)
 
 # Sort by score (descending) to find most relevant docs
 
 sortedResults = (
-    gettysburgDF
+    wordDF
     .filter(col("score") > 0)
     .orderBy(col("score").desc())
     .select("ID", "Title", "Document", "score")
