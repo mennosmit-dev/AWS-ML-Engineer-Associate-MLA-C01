@@ -1,8 +1,5 @@
 # On EMR, in a notebook of PySpark on AWS, backed by EMR cluster, excersises project to for a word find relevant wikipedia pages using TD-IDF (cleaned wiki dataset).
 
-
-# pyspark_wikipedia_tfidf_search.py
-
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 from pyspark.sql.types import (
