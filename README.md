@@ -1,4 +1,4 @@
-# Machine Learning Engineering on AWS, Learning Repository (MLA-C01)
+# AWS Machine Learning Engineering on AWS, Learning Repository (MLA-C01)
 
 This repository documents hands-on learning and experimentation while building
 practical **machine learning engineering skills on AWS**.
@@ -52,9 +52,9 @@ from experimentation into **secure, scalable, and maintainable AWS systems**.
 |---:|-------------------|--------|
 | 01 | [Introduction and Setup](01_Introduction_and_Setup/) | ✅ Completed |
 | 02 | [Data Ingestion and Storage](02_Data_Ingestion_and_Storage/) | ✅ Completed |
-| 03 | [Data Transformation, Integrity, and Feature Engineering](03_Data_Transformation_Integrity_Feature_Engineering/) | ⏳ In Progress |
-| 04 | [AWS Managed AI Services](04_AWS_Managed_AI_Services/) | ⬜ Not Started |
-| 05 | [SageMaker Built-In Algorithms](05_SageMaker_Built_In_Algorithms/) | ⬜ Not Started |
+| 03 | [Data Transformation, Integrity, and Feature Engineering](03_Data_Transformation_Integrity_Feature_Engineering/) | ✅ Completed |
+| 04 | [AWS Managed AI Services](04_AWS_Managed_AI_Services/) | ✅ Completed |
+| 05 | [SageMaker Built-In Algorithms](05_SageMaker_Built_In_Algorithms/) | ⏳ In Progress|
 | 06 | [Model Training, Tuning, and Evaluation](06_Model_Training_Tuning_Evaluation/) | ⬜ Not Started |
 | 07 | [Generative AI Model Fundamentals](07_GenAI_Model_Fundamentals/) | ⬜ Not Started |
 | 08 | [Building GenAI Apps with Bedrock](08_Building_GenAI_Apps_with_Bedrock/) | ⬜ Not Started |
