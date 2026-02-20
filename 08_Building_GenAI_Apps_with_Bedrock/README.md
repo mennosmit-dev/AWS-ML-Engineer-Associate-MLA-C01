@@ -3,21 +3,55 @@
 
 # 08 — Building Generative AI Applications with Bedrock
 
-## Professional Focus
-Move from “LLM knowledge” to “LLM systems”: build GenAI apps with RAG, guardrails, agents, and evaluation patterns.
+## 🎯 Engineering Objective
 
-## What This Enables Me To Do
-- Build GenAI apps using Bedrock foundation models
-- Implement RAG with knowledge bases + embeddings + vector stores
-- Apply guardrails and content filtering
-- Build agentic workflows with Bedrock Agents + action groups
-- Understand model access, evaluation, and operational features
+Transition from understanding large language models to building
+production-oriented generative AI systems using Amazon Bedrock.
 
-## AWS Services / Concepts Covered
-- Amazon Bedrock (playground, evaluation, studio)
-- Knowledge Bases (embeddings/vector stores)
-- RAG chunking strategies
-- Guardrails
-- Bedrock Agents + action groups
-- OpenSearch cleanup warnings (operational hygiene)
+This section focuses on designing LLM-powered applications that combine
+retrieval, safety mechanisms, orchestration, and evaluation workflows.
 
+---
+
+## 🧠 Capabilities Developed
+
+- Building generative AI applications using Bedrock foundation models
+- Implementing Retrieval-Augmented Generation (RAG) architectures
+- Designing knowledge-base workflows using embeddings and vector stores
+- Applying guardrails and content filtering for safe model usage
+- Creating agent-based workflows with Bedrock Agents and action groups
+- Understanding evaluation and operational considerations for GenAI systems
+
+---
+
+## ☁️ AWS Services & Concepts Covered
+
+### Bedrock Platform
+- Amazon Bedrock playground, evaluation tools, and studio workflows
+- Model access and configuration patterns
+
+### Retrieval-Augmented Generation (RAG)
+- Knowledge Bases
+- Embeddings and vector stores
+- Chunking and retrieval strategies
+
+### Safety & Governance
+- Guardrails and content filtering
+
+### Agentic Workflows
+- Bedrock Agents
+- Action groups and orchestration patterns
+
+### Operational Awareness
+- OpenSearch resource cleanup and cost hygiene
+
+---
+
+## 🔗 Role in ML Engineering Workflow
+
+GenAI application development extends traditional ML engineering by enabling:
+
+- production-ready LLM applications
+- retrieval-based reasoning systems
+- safe and governed AI deployment
+- integration of generative models into scalable cloud architectures
