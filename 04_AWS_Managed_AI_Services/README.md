@@ -3,19 +3,64 @@
 
 # 04 — AWS Managed AI Services
 
-## Professional Focus
-Learn to deliver AI capabilities quickly using managed services when custom modeling isn’t required — speeding time-to-value.
+## 🎯 Engineering Objective
 
-## What This Enables Me To Do
-- Choose managed AI services when they’re the right tradeoff vs custom models
-- Implement NLP, speech, vision, and search capabilities using AWS services
-- Understand customization options and integration patterns
+Learn to deliver AI capabilities efficiently using AWS managed services,
+selecting pre-built solutions when they provide faster and more reliable
+time-to-value than custom model development.
 
-## AWS Services / Concepts Covered
-- Comprehend (incl. custom)
-- Translate, Transcribe, Polly
-- Rekognition, Lex, Personalize, Textract, Kendra
-- Augmented AI (A2I)
-- Lookout, Fraud Detector
-- Amazon Q (Business, Apps, Developer) + hands-on
+This section focuses on architectural decision-making: identifying when
+managed AI services are preferable to building and operating bespoke ML models.
 
+---
+
+## 🧠 Capabilities Developed
+
+- Evaluating tradeoffs between managed AI services and custom ML solutions
+- Rapidly implementing NLP, vision, speech, and search capabilities
+- Integrating managed AI services into application workflows
+- Understanding customization and extension patterns
+- Designing hybrid systems combining managed services with ML pipelines
+
+---
+
+## ☁️ AWS Services & Concepts Covered
+
+- **Natural Language & Conversational AI**
+  - Amazon Comprehend (including custom models)
+  - Amazon Translate
+  - Amazon Lex
+
+- **Speech Services**
+  - Amazon Transcribe
+  - Amazon Polly
+
+- **Vision & Document Processing**
+  - Amazon Rekognition
+  - Amazon Textract
+
+- **Search & Recommendation**
+  - Amazon Kendra
+  - Amazon Personalize
+
+- **Human-in-the-Loop**
+  - Augmented AI (A2I)
+
+- **Specialized AI Services**
+  - Amazon Lookout
+  - Fraud Detector
+
+- **Generative AI**
+  - Amazon Q (Business, Apps, Developer)
+
+---
+
+## 🔗 Role in ML Engineering Workflow
+
+Managed AI services enable rapid deployment of intelligent features,
+supporting:
+
+- faster prototyping and delivery
+- reduced operational overhead
+- scalable AI integration within cloud-native systems
+- hybrid architectures combining managed and custom ML solutions
