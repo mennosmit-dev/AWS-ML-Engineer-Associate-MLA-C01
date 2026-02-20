@@ -3,21 +3,56 @@
 
 # 10 — Security, Identity, and Compliance
 
-## Professional Focus
-Build security-first habits: IAM, encryption, network isolation, compliance controls — for ML systems handling sensitive data.
+## 🎯 Engineering Objective
 
-## What This Enables Me To Do
-- Apply least privilege via IAM users, roles, policies, and MFA
-- Implement encryption at rest/in transit (KMS)
-- Design secure VPC networking patterns
-- Use WAF/Shield and secrets management
-- Understand data masking/anonymization and compliance constraints
+Develop security-first practices for designing and operating machine
+learning systems that handle sensitive data in cloud environments.
 
-## AWS Services / Concepts Covered
-- IAM (users/groups/policies/roles/MFA)
-- SageMaker security + VPC
-- KMS, encryption basics
-- Macie, Secrets Manager
-- WAF, Shield
-- VPC, subnets, gateways, endpoints, flow logs, PrivateLink
+This section focuses on identity management, encryption, network isolation,
+and compliance-aware architecture for production ML workloads.
 
+---
+
+## 🧠 Capabilities Developed
+
+- Applying least-privilege access using IAM users, roles, and policies
+- Securing ML workflows with MFA and role-based access control
+- Implementing encryption at rest and in transit using AWS KMS
+- Designing secure networking patterns using VPC isolation
+- Managing secrets and credentials safely
+- Understanding data protection, masking, and compliance considerations
+
+---
+
+## ☁️ AWS Services & Concepts Covered
+
+### Identity & Access Management
+- AWS IAM (users, groups, roles, policies, MFA)
+- SageMaker role-based access patterns
+
+### Encryption & Data Protection
+- AWS KMS
+- Encryption fundamentals (at rest / in transit)
+- Data masking and anonymization concepts
+
+### Network Security
+- VPC architecture
+- Subnets, gateways, and endpoints
+- PrivateLink and VPC Flow Logs
+
+### Threat Protection & Secrets
+- AWS Secrets Manager
+- Amazon Macie
+- AWS WAF and AWS Shield
+
+---
+
+## 🔗 Role in ML Engineering Workflow
+
+Security and compliance form a critical layer of production ML systems,
+enabling:
+
+- safe handling of sensitive datasets
+- controlled model access and deployment
+- compliant data processing workflows
+- secure and maintainable cloud ML platforms
