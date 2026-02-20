@@ -1,27 +1,52 @@
-# AWS Certified Machine Learning Engineer – Associate (MLA-C01) — Learning Repo
+# AWS Machine Learning Engineering on AWS — Learning Repository (MLA-C01)
 
-This repository documents what I’m learning while preparing for the **AWS Certified Machine Learning Engineer – Associate (MLA-C01 / ME1-C01)** exam, with a focus on **real-world ML engineering on AWS**.
+This repository documents hands-on learning and experimentation while building
+practical **machine learning engineering skills on AWS**.
 
-**Course link:** https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-mla-c01/  
-(Udemy lecture pages may require login; this repo links to the public course landing page.)
+The focus is not certification preparation alone, but understanding how
+machine learning systems are designed, deployed, monitored, and operated
+in real cloud environments.
 
----
-
-## 🎯 What this repo demonstrates 
-- **Applied AWS ML engineering skills**: data ingestion, processing, training, deployment, monitoring, and governance on AWS
-- **Service fluency**: Amazon **SageMaker**, **Bedrock**, and key supporting AWS services (S3, IAM, Kinesis, Glue, CloudWatch, etc.)
-- **Production mindset**: security, cost optimization, observability, scalability, and operational best practices
+**Course reference:**  
+https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-mla-c01/
 
 ---
 
-## 🧠 Why I’m doing this
-The MLA-C01 is one of the more demanding cloud certifications because it tests both:
-- **Machine learning competence**, and
-- **How to ship and operate ML systems on AWS**
+## 🎯 Engineering Objective
+
+Develop practical experience with cloud-native ML workflows using AWS,
+covering the full lifecycle:
+
+data ingestion → feature engineering → training → deployment → monitoring → governance.
+
+The repository emphasizes **production-oriented ML architecture** rather
+than isolated experimentation.
 
 ---
 
-## 📊 Progress Tracker (Sections)
+## ☁️ AWS ML Engineering Scope
+
+- Designing scalable data ingestion and storage pipelines
+- Training and tuning models using Amazon SageMaker
+- Deploying and monitoring ML services in cloud environments
+- Working with generative AI workflows using Amazon Bedrock
+- Applying security, governance, and cost-aware architecture practices
+
+Key services explored include:
+
+**SageMaker • Bedrock • S3 • IAM • Glue • Kinesis • CloudWatch • VPC • KMS**
+
+---
+
+## 🧠 Why This Work Matters
+
+Modern ML engineering increasingly requires cloud-native system design.
+This repository focuses on understanding how machine learning models move
+from experimentation into **secure, scalable, and maintainable AWS systems**.
+
+---
+
+## 📊 Progress Tracker
 
 | #  | Section (folder) | Status |
 |---:|-------------------|--------|
@@ -38,28 +63,31 @@ The MLA-C01 is one of the more demanding cloud certifications because it tests b
 | 11 | [Management and Governance](11_Management_and_Governance/) | ⬜ Not Started |
 | 12 | [ML Best Practices + Well-Architected Lens](12_ML_Best_Practices_and_Well_Architected/) | ⬜ Not Started |
 
-
 Legend: ⬜ Not Started · ⏳ In Progress · ✅ Completed
 
 ---
 
-## 🛠 What I’m focusing on (skills)
-- Data ingestion & storage patterns for ML (S3, streaming, lake/lakehouse concepts)
-- Feature engineering at scale (Spark/EMR, Glue, Wrangler, Feature Store)
-- Model training & tuning in SageMaker (built-ins, HPO, experiments, registry)
-- GenAI foundations + practical Bedrock workflows (RAG, knowledge bases, guardrails, agents)
-- MLOps pipelines (deployment strategies, monitoring, scaling, automation)
-- Security & governance (IAM, KMS, VPC, logging, budgets, compliance)
+## 🛠 Engineering Skills Focus
+
+- Data ingestion & storage patterns (data lakes, streaming pipelines)
+- Feature engineering at scale (Glue, Spark, Feature Store concepts)
+- Model training & hyperparameter tuning in SageMaker
+- Generative AI workflows with Bedrock (RAG, agents, guardrails)
+- MLOps automation and deployment strategies
+- Security, identity, and governance for ML workloads
 
 ---
 
-## 📁 Repo conventions
-Each section folder includes:
-- **What this enables me to do**
-- **Key AWS services covered**
-- Space for labs / notes if I choose to add them
+## 📁 Repository Conventions
+
+Each section folder contains:
+- practical capabilities developed
+- AWS services explored
+- structured notes and optional lab implementations
 
 ---
 
 ## 📜 Disclaimer
-This is my personal learning repository. It does not reproduce paid course content verbatim; it summarizes concepts and skills in my own words.
+
+This repository summarizes concepts and skills in my own words and does
+not reproduce paid course material.
