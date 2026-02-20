@@ -3,22 +3,62 @@
 
 # 09 — MLOps on AWS
 
-## Professional Focus
-Learn how AWS production ML actually runs: deployment patterns, scaling, monitoring, automation, and orchestration.
+## 🎯 Engineering Objective
 
-## What This Enables Me To Do
-- Deploy models using SageMaker patterns (variants, pipelines, serverless)
-- Use monitoring and data capture for production visibility
-- Choose compute and scaling strategies (spot, autoscaling)
-- Understand containerization and orchestration (ECS/EKS/ECR)
-- Automate via infrastructure as code and pipelines (CFN/CDK/CodePipeline)
-- Orchestrate workflows (EventBridge, Step Functions, MWAA)
+Understand how production machine learning systems are deployed,
+operated, and maintained on AWS using scalable, automated, and
+observable workflows.
 
-## AWS Services / Concepts Covered
-- SageMaker deployment (variants, pipelines, serverless inference)
-- Model Monitor + data capture
-- Docker, ECS/EKS/ECR, Batch
-- CloudFormation, CDK
-- CodeDeploy/Build/Pipeline
-- EventBridge, Step Functions, MWAA
-- Lake Formation basics
+This section focuses on connecting model development with real-world
+operational practices including deployment strategies, monitoring,
+automation, and orchestration.
+
+---
+
+## 🧠 Capabilities Developed
+
+- Deploying models using SageMaker deployment patterns (endpoints, variants, pipelines, serverless inference)
+- Establishing production visibility through monitoring and data capture
+- Selecting compute and scaling strategies (autoscaling, spot instances)
+- Applying containerization and orchestration concepts for ML services
+- Automating infrastructure and delivery pipelines
+- Designing event-driven and scheduled ML workflows
+
+---
+
+## ☁️ AWS Services & Concepts Covered
+
+### Model Deployment & Monitoring
+- SageMaker deployment variants and pipelines
+- Serverless inference
+- Model Monitor and data capture
+
+### Containers & Compute
+- Docker workflows
+- Amazon ECS / EKS / ECR
+- AWS Batch
+
+### Infrastructure as Code & Automation
+- CloudFormation (CFN)
+- AWS CDK
+- CodeBuild, CodeDeploy, CodePipeline
+
+### Workflow Orchestration
+- Amazon EventBridge
+- AWS Step Functions
+- Managed Workflows for Apache Airflow (MWAA)
+
+### Data Governance
+- AWS Lake Formation fundamentals
+
+---
+
+## 🔗 Role in ML Engineering Workflow
+
+MLOps on AWS represents the operational backbone of production ML systems,
+enabling:
+
+- automated model deployment and updates
+- scalable inference services
+- continuous monitoring and retraining workflows
+- reliable, maintainable cloud ML platforms
