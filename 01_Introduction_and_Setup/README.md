@@ -3,17 +3,40 @@
 
 # 01 — Introduction and Setup
 
-## Professional Focus
-Set up the learning environment the same way you’d set up a real cloud project: cost awareness, billing safety, and stable access to AWS.
+## 🎯 Engineering Objective
 
-## What This Enables Me To Do
-- Start an AWS-based ML project with guardrails (budgeting and cost alerts)
-- Avoid common setup mistakes that cause runaway spend
-- Organize course materials like an engineer: repeatable and referenceable
+Establish a safe and reproducible AWS environment configured with
+cost awareness, operational visibility, and stable access — mirroring
+the setup phase of a real-world cloud ML project.
 
-## AWS Services / Concepts Covered
-- AWS account basics.
-- Billing alarms and cost visibility
-- Console UI changes (operational awareness)
+This stage focuses on building a secure foundation before developing
+or deploying machine learning workloads.
 
+---
 
+## 🧠 Capabilities Developed
+
+- Initializing an AWS environment with cost-control guardrails
+- Configuring budgets and billing alerts to prevent unexpected spend
+- Understanding account structure and access fundamentals
+- Organizing cloud resources with a repeatable project setup mindset
+
+---
+
+## ☁️ AWS Services & Concepts Covered
+
+- AWS account fundamentals
+- Billing dashboards and cost monitoring
+- Budget alerts and spending safeguards
+- Console navigation and operational awareness
+
+---
+
+## 🔗 Role in ML Engineering Workflow
+
+A properly configured cloud environment is a prerequisite for reliable
+ML engineering. This setup phase enables:
+
+- safe experimentation in cloud environments
+- scalable data and training workflows
+- controlled infrastructure usage during development
