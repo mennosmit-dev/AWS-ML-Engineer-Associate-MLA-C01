@@ -5,7 +5,7 @@
 - [x] 02 Data Ingestion and Storage
 - [x] 03 Data Transformation, Integrity, and Feature Engineering
 - [x] 04 AWS Managed AI Services
-- [] 05 SageMaker Built-In Algorithms
+- [ ] 05 SageMaker Built-In Algorithms
 - [ ] 06 Model Training, Tuning, and Evaluation
 - [ ] 07 Generative AI Model Fundamentals
 - [ ] 08 Building Generative AI Apps with Bedrock
