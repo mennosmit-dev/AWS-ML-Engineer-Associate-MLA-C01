@@ -1,4 +1,4 @@
-# AWS Machine Learning Engineering on AWS — Learning Repository (MLA-C01)
+# Machine Learning Engineering on AWS — Learning Repository (MLA-C01)
 
 This repository documents hands-on learning and experimentation while building
 practical **machine learning engineering skills on AWS**.
