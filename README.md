@@ -54,12 +54,12 @@ from experimentation into **secure, scalable, and maintainable AWS systems**.
 | 02 | [Data Ingestion and Storage](02_Data_Ingestion_and_Storage/) | ✅ Completed |
 | 03 | [Data Transformation, Integrity, and Feature Engineering](03_Data_Transformation_Integrity_Feature_Engineering/) | ✅ Completed |
 | 04 | [AWS Managed AI Services](04_AWS_Managed_AI_Services/) | ✅ Completed |
-| 05 | [SageMaker Built-In Algorithms](05_SageMaker_Built_In_Algorithms/) | ⏳ In Progress|
-| 06 | [Model Training, Tuning, and Evaluation](06_Model_Training_Tuning_Evaluation/) | ⬜ Not Started |
-| 07 | [Generative AI Model Fundamentals](07_GenAI_Model_Fundamentals/) | ⬜ Not Started |
-| 08 | [Building GenAI Apps with Bedrock](08_Building_GenAI_Apps_with_Bedrock/) | ⬜ Not Started |
-| 09 | [MLOps on AWS](09_MLOps_on_AWS/) | ⬜ Not Started |
-| 10 | [Security, Identity, and Compliance](10_Security_Identity_Compliance/) | ⬜ Not Started |
+| 05 | [SageMaker Built-In Algorithms](05_SageMaker_Built_In_Algorithms/) | ✅ Completed|
+| 06 | [Model Training, Tuning, and Evaluation](06_Model_Training_Tuning_Evaluation/) | ✅ Completed |
+| 07 | [Generative AI Model Fundamentals](07_GenAI_Model_Fundamentals/) | ✅ Completed |
+| 08 | [Building GenAI Apps with Bedrock](08_Building_GenAI_Apps_with_Bedrock/) | ✅ Completed |
+| 09 | [MLOps on AWS](09_MLOps_on_AWS/) | ✅ Completed |
+| 10 | [Security, Identity, and Compliance](10_Security_Identity_Compliance/) | ⏳ In Progress |
 | 11 | [Management and Governance](11_Management_and_Governance/) | ⬜ Not Started |
 | 12 | [ML Best Practices + Well-Architected Lens](12_ML_Best_Practices_and_Well_Architected/) | ⬜ Not Started |
 
